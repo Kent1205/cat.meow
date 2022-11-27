@@ -1,0 +1,28 @@
+{
+  "name": "Moderation-Bot",
+  "version": "1.0.0",
+  "description": "A Simple Moderation Bot which can Manage your Server Easily!",
+  "main": "index.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^3.0.0",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "server.js": "^1.0.0",
+    "util": "^0.12.3",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping",
+    "start": "node server.js"
+  },
+  "author": "! AGT OP#0069",
+  "license": "ISC"
+}
